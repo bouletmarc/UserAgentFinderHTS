@@ -1,0 +1,9 @@
+C:\Users\boule\Documents\Visual Studio 2019\Projects\UserAgentFinder\bin\Debug\UserAgentFinder.exe.config
+C:\Users\boule\Documents\Visual Studio 2019\Projects\UserAgentFinder\bin\Debug\UserAgentFinder.exe
+C:\Users\boule\Documents\Visual Studio 2019\Projects\UserAgentFinder\bin\Debug\UserAgentFinder.pdb
+C:\Users\boule\Documents\Visual Studio 2019\Projects\UserAgentFinder\obj\Debug\UserAgentFinder.csprojAssemblyReference.cache
+C:\Users\boule\Documents\Visual Studio 2019\Projects\UserAgentFinder\obj\Debug\UserAgentFinder.Form1.resources
+C:\Users\boule\Documents\Visual Studio 2019\Projects\UserAgentFinder\obj\Debug\UserAgentFinder.Properties.Resources.resources
+C:\Users\boule\Documents\Visual Studio 2019\Projects\UserAgentFinder\obj\Debug\UserAgentFinder.csproj.GenerateResource.cache
+C:\Users\boule\Documents\Visual Studio 2019\Projects\UserAgentFinder\obj\Debug\UserAgentFinder.exe
+C:\Users\boule\Documents\Visual Studio 2019\Projects\UserAgentFinder\obj\Debug\UserAgentFinder.pdb
